@@ -1,0 +1,98 @@
+[
+ {
+  "id": "gayatri-mantra",
+  "title": "Gayatri Mantra",
+  "category": "Vedic Mantra",
+  "sanskrit": "ॐ भूर्भुवः स्वः\nतत्सवितुर्वरेण्यं\nभर्गो देवस्य धीमहि\nधियो यो नः प्रचोदयात्॥",
+  "transliteration": "Om Bhur Bhuvah Swaha\nTat Savitur Varenyam\nBhargo Devasya Dheemahi\nDhiyo Yo Nah Prachodayat",
+  "meaning": "We meditate on the glory of the Divine Light (Savitr) that pervades the earth, the atmosphere and the heavens; may that Divine Light illumine our intellect and guide our thoughts."
+ },
+ {
+  "id": "mahamrityunjaya-mantra",
+  "title": "Mahamrityunjaya Mantra",
+  "category": "Shiva Mantra",
+  "sanskrit": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्॥",
+  "transliteration": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam\nUrvarukamiva Bandhanan Mrityor Mukshiya Mamritat",
+  "meaning": "We worship the three-eyed Lord Shiva, the fragrant one who nourishes and grants prosperity to all. As the ripened cucumber is freed from its bondage to the vine, may He liberate us from death for the sake of immortality."
+ },
+ {
+  "id": "om-namah-shivaya",
+  "title": "Panchakshari Mantra (Om Namah Shivaya)",
+  "category": "Shiva Mantra",
+  "sanskrit": "ॐ नमः शिवाय",
+  "transliteration": "Om Namah Shivaya",
+  "meaning": "Salutations to Lord Shiva, the inner self. This five-syllable mantra is one of the most sacred in Shaivism."
+ },
+ {
+  "id": "gopala-mantra",
+  "title": "Krishna Mantra (Om Namo Bhagavate Vasudevaya)",
+  "category": "Krishna/Vishnu Mantra",
+  "sanskrit": "ॐ नमो भगवते वासुदेवाय",
+  "transliteration": "Om Namo Bhagavate Vasudevaya",
+  "meaning": "Salutations to Lord Vasudeva (Krishna/Vishnu), the all-pervading Supreme Being. A twelve-syllable mantra sacred to Vaishnavas."
+ },
+ {
+  "id": "hare-krishna-mahamantra",
+  "title": "Hare Krishna Maha-Mantra",
+  "category": "Krishna Mantra",
+  "sanskrit": "हरे कृष्ण हरे कृष्ण, कृष्ण कृष्ण हरे हरे।\nहरे राम हरे राम, राम राम हरे हरे॥",
+  "transliteration": "Hare Krishna Hare Krishna, Krishna Krishna Hare Hare\nHare Rama Hare Rama, Rama Rama Hare Hare",
+  "meaning": "A call of devotion to Krishna and Rama, chanted for peace of mind and God-consciousness; central to the Vaishnava bhakti tradition."
+ },
+ {
+  "id": "ganesh-mantra",
+  "title": "Ganesh Mantra (Vakratunda Mahakaya)",
+  "category": "Ganesh Mantra",
+  "sanskrit": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+  "transliteration": "Vakratunda Mahakaya Suryakoti Samaprabha\nNirvighnam Kuru Me Deva Sarva Karyeshu Sarvada",
+  "meaning": "O Lord with the curved trunk and mighty body, whose radiance equals a million suns, please make all my endeavours free of obstacles, always."
+ },
+ {
+  "id": "shanti-mantra",
+  "title": "Shanti Mantra (Sarvesham Svastir Bhavatu)",
+  "category": "Peace Mantra",
+  "sanskrit": "ॐ सर्वेशां स्वस्तिर्भवतु। सर्वेशां शान्तिर्भवतु।\nसर्वेशां पूर्णं भवतु। सर्वेशां मङ्गलं भवतु॥\nॐ शान्तिः शान्तिः शान्तिः॥",
+  "transliteration": "Om Sarvesham Svastir Bhavatu, Sarvesham Shantir Bhavatu\nSarvesham Purnam Bhavatu, Sarvesham Mangalam Bhavatu\nOm Shanti Shanti Shanti",
+  "meaning": "May there be well-being, peace, fullness and auspiciousness for all. Om, peace, peace, peace."
+ },
+ {
+  "id": "asato-ma-sadgamaya",
+  "title": "Pavamana Mantra (Asato Ma Sadgamaya)",
+  "category": "Upanishad Mantra",
+  "sanskrit": "ॐ असतो मा सद्गमय। तमसो मा ज्योतिर्गमय।\nमृत्योर्मा अमृतं गमय। ॐ शान्तिः शान्तिः शान्तिः॥",
+  "transliteration": "Om Asato Ma Sadgamaya, Tamaso Ma Jyotirgamaya\nMrityor Ma Amritam Gamaya, Om Shanti Shanti Shanti",
+  "meaning": "Lead me from the unreal to the real, from darkness to light, from death to immortality. Om, peace, peace, peace."
+ },
+ {
+  "id": "guru-mantra",
+  "title": "Guru Mantra (Gurur Brahma)",
+  "category": "Guru Mantra",
+  "sanskrit": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः।\nगुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः॥",
+  "transliteration": "Gurur Brahma Gurur Vishnu Gurur Devo Maheshwarah\nGuru Sakshat Param Brahma Tasmai Shri Gurave Namah",
+  "meaning": "The Guru is Brahma, the Guru is Vishnu, the Guru is Lord Maheshwara (Shiva). The Guru is verily the Supreme Absolute itself; salutations to that Guru."
+ },
+ {
+  "id": "durga-mantra",
+  "title": "Durga Mantra (Sarva Mangala Mangalye)",
+  "category": "Devi Mantra",
+  "sanskrit": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+  "transliteration": "Sarva Mangala Mangalye Shive Sarvartha Sadhike\nSharanye Tryambake Gauri Narayani Namostute",
+  "meaning": "O auspicious one who is the source of all auspiciousness, benevolent one who fulfils all desires, refuge of all, three-eyed Gauri — O Narayani, salutations to you."
+ },
+ {
+  "id": "saraswati-mantra",
+  "title": "Saraswati Vandana (Ya Kundendu)",
+  "category": "Saraswati Mantra",
+  "sanskrit": "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता।\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना॥\nया ब्रह्माच्युत शंकरप्रभृतिभिर्देवैः सदा वन्दिता।\nसा मां पातु सरस्वती भगवती निःशेषजाड्यापहा॥",
+  "transliteration": "Ya Kundendu Tushara Hara Dhavala Ya Shubhra Vastravrita\nYa Veena Vara Danda Mandita Kara Ya Shweta Padmasana\nYa Brahmachyuta Shankara Prabhritibhir Devaih Sada Vandita\nSa Mam Patu Saraswati Bhagavati Nihshesha Jadyapaha",
+  "meaning": "May Goddess Saraswati, white as jasmine, moon and snow, clad in white, adorned with the veena, seated on a white lotus, and worshipped by Brahma, Vishnu and Shiva, protect me and remove all dullness of mind."
+ },
+ {
+  "id": "hanuman-mantra",
+  "title": "Hanuman Mantra (Manojavam)",
+  "category": "Hanuman Mantra",
+  "sanskrit": "मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम्।\nवातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये॥",
+  "transliteration": "Manojavam Maruta Tulya Vegam Jitendriyam Buddhimatam Varishtham\nVatatmajam Vanarayutha Mukhyam Shriramadutam Sharanam Prapadye",
+  "meaning": "I take refuge in Hanuman, swift as the mind and the wind, master of the senses, foremost among the wise, son of the wind-god, chief of the monkey army, and messenger of Sri Rama."
+ }
+]

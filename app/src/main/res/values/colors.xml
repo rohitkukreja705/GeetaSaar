@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="saffron">#FF9933</color>
+    <color name="saffron_dark">#E07B00</color>
+    <color name="deep_maroon">#5C1A1B</color>
+    <color name="cream">#FFF8ED</color>
+    <color name="ink">#2B1B12</color>
+    <color name="gold">#C89B3C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#8A7A6D</color>
+    <color name="favorite_red">#D64545</color>
+</resources>

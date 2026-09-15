@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geeta Saar</string>
+    <string name="tab_gita">Gita</string>
+    <string name="tab_mantras">Mantras</string>
+    <string name="tab_aartis">Aartis</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="hint_search">Search verses in Sanskrit, Hindi or English…</string>
+    <string name="tab_sanskrit">Sanskrit</string>
+    <string name="tab_transliteration">Transliteration</string>
+    <string name="tab_hindi">Hindi</string>
+    <string name="tab_english">English</string>
+    <string name="word_meanings_title">Word Meanings</string>
+    <string name="no_favorites_yet">No favorites yet.\nTap the ♡ on any verse, mantra or aarti to save it here.</string>
+    <string name="no_search_results">No matching verses found.</string>
+    <string name="chapter_format">Chapter %1$d</string>
+    <string name="verse_count_format">%1$d verses</string>
+</resources>

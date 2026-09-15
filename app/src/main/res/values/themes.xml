@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.GeetaSaar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/saffron</item>
+        <item name="colorPrimaryVariant">@color/saffron_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/deep_maroon</item>
+        <item name="colorSecondaryVariant">@color/deep_maroon</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/saffron_dark</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+
+    <style name="Theme.GeetaSaar.NoBar">
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

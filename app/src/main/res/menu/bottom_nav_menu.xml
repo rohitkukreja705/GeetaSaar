@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_gita"
+        android:icon="@drawable/ic_book"
+        android:title="@string/tab_gita" />
+    <item
+        android:id="@+id/nav_mantras"
+        android:icon="@drawable/ic_mantra"
+        android:title="@string/tab_mantras" />
+    <item
+        android:id="@+id/nav_aartis"
+        android:icon="@drawable/ic_temple"
+        android:title="@string/tab_aartis" />
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/tab_favorites" />
+</menu>
